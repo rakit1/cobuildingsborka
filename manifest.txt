@@ -1,3 +1,1 @@
 mods/fabric1.jar
-mods/fabric.jar
-mods/fabric2.jar
