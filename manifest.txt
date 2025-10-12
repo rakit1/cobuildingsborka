@@ -1,1 +1,2 @@
 mods/plasmovoice-fabric.jar
+# это тестовый комментарий
