@@ -1,3 +1,0 @@
-# Моды
-mods/fabric-api.jar=a82fd00827206e911936ed1e0ceaec6eb55d061ca5d3c5d63c7f0031426d29ae
-mods/plasmovoice-fabric.jar=3137bed30afab5f70662170962f1ce2ba46e589e7ee48cb6d861facf42555f65
