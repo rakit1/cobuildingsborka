@@ -1,1 +1,2 @@
-
+# Моды
+mods/fabric-api.jar
