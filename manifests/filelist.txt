@@ -1,2 +1,3 @@
 # Моды
 mods/fabric-api.jar
+mods/plasmovoice-fabric.jar
