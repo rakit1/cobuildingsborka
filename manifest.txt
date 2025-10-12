@@ -1,1 +1,1 @@
-mods/plasmovoice-fabric.jar
+mods/plasmovoice-fabric1.jar
