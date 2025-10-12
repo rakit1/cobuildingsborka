@@ -1,1 +1,2 @@
-
+# Моды
+mods/fabric-api.jar=a82fd00827206e911936ed1e0ceaec6eb55d061ca5d3c5d63c7f0031426d29ae
