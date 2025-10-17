@@ -1,1 +1,1 @@
-launcher-v1.1.3
+launcher-v1.1.4
